@@ -1,4 +1,4 @@
-# Bento grid
+# Bento-Grid
 
 ## Instructions
 
