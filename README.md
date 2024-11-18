@@ -1,11 +1,12 @@
-# Bento-Grid
+## Bento-Grid reducido
 
-## Instructions
+[Aquí](https://github.com/jaimegpm/Bento-Grid/releases/tag/v1.0) la descarga de la última release.
 
-To run locally I'd use:
+```bash
+# Clona este repositorio
+git clone https://github.com/tu_usuario/Bento-Grid
 
-```
-~$ npx http-server
-```
+# Navega a la carpeta del proyecto
+cd Bento-Grid
 
-The site will run in [localhost:8080](http://localhost:8080/)
+# Abre el archivo index.html en tu navegador para ver el portafolio en acción.
