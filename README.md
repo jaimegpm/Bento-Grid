@@ -1,6 +1,6 @@
 ## Bento-Grid reducido
 
-[Aquí](https://github.com/jaimegpm/Bento-Grid/releases/tag/v1.0) la descarga de la última release.
+[Aquí](https://github.com/jaimegpm/Bento-Grid/releases/download/v1.0/bento-grid.rar) la descarga directa de la última release.
 
 ```bash
 # Clona este repositorio
